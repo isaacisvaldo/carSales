@@ -314,7 +314,7 @@
   });
 
 
-	$('#book_pick_date,#book_off_date').datepicker({
+	$('#sales_pick_date,#sales_off_date').datepicker({
 	  'format': 'm/d/yyyy',
 	  'autoclose': true
 	});
