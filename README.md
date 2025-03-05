@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">CarSales</h1>
-![alt text](image.png)
+<img src="image.png" alt="Logo do Projeto" width="200">
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/carsales?color=56BEB8">
